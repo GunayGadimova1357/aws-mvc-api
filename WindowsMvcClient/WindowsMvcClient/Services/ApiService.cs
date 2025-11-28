@@ -10,7 +10,7 @@ namespace WindowsMvcClient.Services
         public ApiService(HttpClient client)
         {
             _client = client;
-            _client.BaseAddress = new Uri("http://<LinuxPublicIP>:5000/");
+            _client.BaseAddress = new Uri("http://<LinuxPublicIP>:5000/"); //13.60.172.9
         }
 
         public async Task<string> GetHelloAsync()
