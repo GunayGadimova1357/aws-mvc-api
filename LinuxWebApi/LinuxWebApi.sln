@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinuxWebApi", "LinuxWebApi\LinuxWebApi.csproj", "{CFEA8D87-F586-408E-A579-1F2C42DA16BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFEA8D87-F586-408E-A579-1F2C42DA16BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEA8D87-F586-408E-A579-1F2C42DA16BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEA8D87-F586-408E-A579-1F2C42DA16BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEA8D87-F586-408E-A579-1F2C42DA16BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
